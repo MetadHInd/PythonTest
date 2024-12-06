@@ -1,2 +1,2 @@
 # PythonTest
-Se que no es lo mejor en cuanto para demostrar mis habilidades pero solo tube 45 mins para hacerlo debido a que finalizo contrato en otro trabajo este sabado y debo dejar todo al dia, si cuento con otra oportunidad para el domingo puedo mejorar el codigo un 200%, debido a que por el momento solo es un personaje que se mueve y cuenta con un arma
+Reconozco que no es la mejor representación de mis habilidades, ya que solo tuve 45 minutos para completarla debido a que este sábado finalizo mi contrato en otro trabajo y debo dejar todo al día. Si se me brinda otra oportunidad el domingo, podría mejorar el código en un 200%, ya que actualmente solo cuenta con un personaje que se mueve y tiene un arma
